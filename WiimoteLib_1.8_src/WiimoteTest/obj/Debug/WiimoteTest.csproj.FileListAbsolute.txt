@@ -1,0 +1,15 @@
+C:\Users\mech-user\Documents\unity\WiimoteLib_1.8_src\WiimoteTest\bin\Debug\WiimoteTest.exe
+C:\Users\mech-user\Documents\unity\WiimoteLib_1.8_src\WiimoteTest\bin\Debug\WiimoteTest.pdb
+C:\Users\mech-user\Documents\unity\WiimoteLib_1.8_src\WiimoteTest\bin\Debug\WiimoteLib.dll
+C:\Users\mech-user\Documents\unity\WiimoteLib_1.8_src\WiimoteTest\bin\Debug\WiimoteLib.pdb
+C:\Users\mech-user\Documents\unity\WiimoteLib_1.8_src\WiimoteTest\bin\Debug\WiimoteLib.xml
+C:\Users\mech-user\Documents\unity\WiimoteLib_1.8_src\WiimoteTest\obj\Debug\WiimoteTest.csprojResolveAssemblyReference.cache
+C:\Users\mech-user\Documents\unity\WiimoteLib_1.8_src\WiimoteTest\obj\Debug\WiimoteTest.SingleWiimoteForm.resources
+C:\Users\mech-user\Documents\unity\WiimoteLib_1.8_src\WiimoteTest\obj\Debug\WiimoteTest.MultipleWiimoteForm.resources
+C:\Users\mech-user\Documents\unity\WiimoteLib_1.8_src\WiimoteTest\obj\Debug\WiimoteTest.Properties.Resources.resources
+C:\Users\mech-user\Documents\unity\WiimoteLib_1.8_src\WiimoteTest\obj\Debug\WiimoteTest.WiimoteInfo.resources
+C:\Users\mech-user\Documents\unity\WiimoteLib_1.8_src\WiimoteTest\obj\Debug\WiimoteTest.csproj.GenerateResource.Cache
+C:\Users\mech-user\Documents\unity\WiimoteLib_1.8_src\WiimoteTest\obj\Debug\WiimoteTest.exe
+C:\Users\mech-user\Documents\unity\WiimoteLib_1.8_src\WiimoteTest\obj\Debug\WiimoteTest.pdb
+F:\unity\WiimoteLib_1.8_src\WiimoteTest\obj\Debug\WiimoteTest.exe
+F:\unity\WiimoteLib_1.8_src\WiimoteTest\obj\Debug\WiimoteTest.pdb

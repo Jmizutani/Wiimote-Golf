@@ -1,0 +1,215 @@
+fileFormatVersion: 2
+guid: c019e3ceaf5110d49a49b07035b7058d
+timeCreated: 1481956705
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Armature
+    100002: club
+    100004: foot_L
+    100006: foot_R
+    100008: forefinger1_L
+    100010: forefinger1_R
+    100012: forefinger2_L
+    100014: forefinger2_R
+    100016: //RootNode
+    100018: hand_L
+    100020: hand_R
+    100022: handle_L
+    100024: handle_R
+    100026: head
+    100028: hip_L
+    100030: hip_R
+    100032: littlefinger1_L
+    100034: littlefinger1_R
+    100036: littlefinger2_L
+    100038: littlefinger2_R
+    100040: lower_arm_L
+    100042: lower_arm_R
+    100044: lower_leg_L
+    100046: lower_leg_R
+    100048: middlefinger1_L
+    100050: middlefinger1_R
+    100052: middlefinger2_L
+    100054: middlefinger2_R
+    100056: none
+    100058: Object03_001
+    100060: ringfinger1_L
+    100062: ringfinger1_R
+    100064: ringfinger2_L
+    100066: ringfinger2_R
+    100068: RoryEye
+    100070: RoryEyeref
+    100072: RoryHair
+    100074: RoryHands
+    100076: RoryHead
+    100078: RoryPants
+    100080: RoryShirt
+    100082: RoryShoes
+    100084: RoryTeeth
+    100086: RoryTongue
+    100088: RoryWatchRing
+    100090: shoulder_L
+    100092: shoulder_R
+    100094: spine
+    100096: thumb1_L
+    100098: thumb1_R
+    100100: thumb2_L
+    100102: thumb2_R
+    100104: upper_arm_L
+    100106: upper_arm_R
+    100108: upper_leg_L
+    100110: upper_leg_R
+    400000: Armature
+    400002: club
+    400004: foot_L
+    400006: foot_R
+    400008: forefinger1_L
+    400010: forefinger1_R
+    400012: forefinger2_L
+    400014: forefinger2_R
+    400016: //RootNode
+    400018: hand_L
+    400020: hand_R
+    400022: handle_L
+    400024: handle_R
+    400026: head
+    400028: hip_L
+    400030: hip_R
+    400032: littlefinger1_L
+    400034: littlefinger1_R
+    400036: littlefinger2_L
+    400038: littlefinger2_R
+    400040: lower_arm_L
+    400042: lower_arm_R
+    400044: lower_leg_L
+    400046: lower_leg_R
+    400048: middlefinger1_L
+    400050: middlefinger1_R
+    400052: middlefinger2_L
+    400054: middlefinger2_R
+    400056: none
+    400058: Object03_001
+    400060: ringfinger1_L
+    400062: ringfinger1_R
+    400064: ringfinger2_L
+    400066: ringfinger2_R
+    400068: RoryEye
+    400070: RoryEyeref
+    400072: RoryHair
+    400074: RoryHands
+    400076: RoryHead
+    400078: RoryPants
+    400080: RoryShirt
+    400082: RoryShoes
+    400084: RoryTeeth
+    400086: RoryTongue
+    400088: RoryWatchRing
+    400090: shoulder_L
+    400092: shoulder_R
+    400094: spine
+    400096: thumb1_L
+    400098: thumb1_R
+    400100: thumb2_L
+    400102: thumb2_R
+    400104: upper_arm_L
+    400106: upper_arm_R
+    400108: upper_leg_L
+    400110: upper_leg_R
+    4300000: Object03_001
+    4300002: RoryWatchRing
+    4300004: RoryTongue
+    4300006: RoryTeeth
+    4300008: RoryShoes
+    4300010: RoryShirt
+    4300012: RoryPants
+    4300014: RoryHead
+    4300016: RoryHands
+    4300018: RoryHair
+    4300020: RoryEyeref
+    4300022: RoryEye
+    7400000: Default Take
+    7400002: idle
+    7400004: swing
+    9500000: //RootNode
+    13700000: Object03_001
+    13700002: RoryEye
+    13700004: RoryEyeref
+    13700006: RoryHair
+    13700008: RoryHands
+    13700010: RoryHead
+    13700012: RoryPants
+    13700014: RoryShirt
+    13700016: RoryShoes
+    13700018: RoryTeeth
+    13700020: RoryTongue
+    13700022: RoryWatchRing
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
